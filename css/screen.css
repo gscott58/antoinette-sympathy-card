@@ -15,21 +15,24 @@ body {
 /*- (15) Sansita with Open Sans         -*/ 
 /*---------------------------------------*/
 h1 {
-    font-family: 'Sansita', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
     font-weight: 700;
-    line-height: 46px;
-    font-size: 36px;
+    line-height: 1;
+    letter-spacing: 1px;
     }
+
 h2 {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
-    line-height: 23px;
-    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
     }
+
 h3 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    line-height: 12px;
+    line-height: 1;
     letter-spacing: 1px;
     }
 
@@ -48,7 +51,8 @@ img {
 }
 p {
     clear:  both;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
-    line-height: 23px; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    line-height: 1.50;
+    letter-spacing: 1px; 
     }         
